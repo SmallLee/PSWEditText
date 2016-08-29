@@ -1,6 +1,11 @@
 # PSWEditText
 动态显示与隐藏密码的EditText
 
+##效果图
+
+![img](https://github.com/SmallLee/PSWEditText/blob/master/GIF2.gif)
+
+
 ##使用
 与普通EditText一样
 
