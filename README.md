@@ -6,6 +6,13 @@
 ![img](https://github.com/SmallLee/PSWEditText/blob/master/GIF2.gif)
 
 
+##引入
+```Java
+dependencies {
+    compile 'com.fang:pswedittext:v1.0.0'
+}
+```
+
 ##使用
 与普通EditText一样
 
